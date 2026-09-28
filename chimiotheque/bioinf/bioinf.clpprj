@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project name="C:\Program Files (x86)\EasyPHP-Devserver-17\eds-www\bioinf\bioinf.clpprj">
+	<settings><PM_URL><![CDATA[C:/Web/]]></PM_URL><PM_HOME_URL><![CDATA[C:/Web/]]></PM_HOME_URL><PM_LIBS><![CDATA[]]></PM_LIBS><PM_FTP_CONNECTION><![CDATA[]]></PM_FTP_CONNECTION><PM_FTP_DIR><![CDATA[]]></PM_FTP_DIR><PM_FTP_UPLOAD_ON_SAVE><![CDATA[INT:0]]></PM_FTP_UPLOAD_ON_SAVE></settings><removed value=";"/><added value=""/><lastopfiles>
+		<file name="C:\Program Files (x86)\EasyPHP-Devserver-17\eds-www\bioinf\bioinf.php"/>
+		<file name="C:\Program Files (x86)\EasyPHP-Devserver-17\eds-www\bioinf\add.php"/>
+		<file name="C:\Program Files (x86)\EasyPHP-Devserver-17\eds-www\bioinf\delete.php"/>
+	</lastopfiles>
+	<errors version="5.11">
+		<errfile name="C:\Program Files (x86)\EasyPHP-Devserver-17\eds-www\bioinf\bioinf.php">
+			<error val="98;128;107;128;2001;1;"/>
+			<error val="107;128;113;128;2002;1;"/>
+			<error val="36;85;52;85;2002;1;"/>
+		</errfile>
+	</errors>
+	<cakedata>
+	</cakedata>
+	<dplmenupath>
+	</dplmenupath><laravael>
+	</laravael><smartyassings>
+	</smartyassings><twigtemplate>
+	</twigtemplate><yiidata>
+	</yiidata>
+	<todoblock>
+	</todoblock>
+	<filescache>
+		<file name="C:\Program Files (x86)\EasyPHP-Devserver-17\eds-www\bioinf\delete.php" crc="1598702618"/>
+		<file name="C:\Program Files (x86)\EasyPHP-Devserver-17\eds-www\bioinf\bioinf.php" crc="1598900848"/>
+		<file name="C:\Program Files (x86)\EasyPHP-Devserver-17\eds-www\bioinf\add.php" crc="1598703644"/>
+	</filescache>
+</project>
